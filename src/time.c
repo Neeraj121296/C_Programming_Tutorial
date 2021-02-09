@@ -43,3 +43,18 @@ void main()
     printf("Today's date and time : %s",ctime(&t));
    
 }
+
+
+/*
+OUTPUT:
+
+The number of clock ticks since the beginning of program is 4052.000000
+Time required to run this program is 0.004052 sec
+Seconds since January 1, 1970 = 1612873201
+Today's date and time : Tue Feb  9 12:20:01 2021
+
+
+
+
+*/
+
